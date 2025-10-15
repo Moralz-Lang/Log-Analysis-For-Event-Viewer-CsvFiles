@@ -39,8 +39,8 @@ Key Features
 
 Installation
     1. Clone the repository:
-git clone https://github.com/yourusername/event-log-analyzer.git
-cd event-log-analyzer
+git clone https://github.com/yourusername/Log-Analysis-For-Event-Viewer-CsvFiles.git
+cd Log-Analysis-For-Event-Viewer-CsvFiles
     2. Install dependencies:
 pip install pandas matplotlib
 Python 3.9+ recommended for best compatibility.
